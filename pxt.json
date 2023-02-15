@@ -1,0 +1,26 @@
+{
+    "name": "teachingProject_motorbit巡宽线",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "motorbit": "github:elecfreaks/pxt-motorbit#f49a7481fa381561ba9c8e7c441a40615b3508e6",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
